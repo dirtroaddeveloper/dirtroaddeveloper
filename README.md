@@ -39,4 +39,4 @@
 
 ## ⚡ Fun Fact
 
-- When I'm not coding, I'm exploring the latest industry trends, sharing tech tips on social media, playing video games, or cooking!
+- When I'm not coding, I'm exploring the latest industry trends, Playing games with my wife and son, sharing tech tips on social media, playing video games, or cooking!
