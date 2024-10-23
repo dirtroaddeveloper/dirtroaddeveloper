@@ -29,6 +29,9 @@
 
 - 💼 LinkedIn: [Ron Goodwin](https://www.linkedin.com/in/ronaldgoodwindev/)
 - 🐦 Twitter: [@fullstackjunkie](https://x.com/fullstackjunkie)
+- 🎵 TikTok: [@fullstackjunkie](https://www.tiktok.com/@fullstackjunkie)
+- 📸 Instagram: [@fullstackjunkie](https://www.instagram.com/fullstackjunkie)
+- 📺 YouTube: [@fullstackjunkie](https://www.youtube.com/@FullstackJunkie)
 
 ## 😄 Pronouns
 
