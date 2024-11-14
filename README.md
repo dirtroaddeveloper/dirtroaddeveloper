@@ -4,7 +4,7 @@
 
 - 🎓 **Computer Science Graduate** with multiple years of **industry experience**.
 - 💻 Skilled in **C#**, **JavaScript**, and full-stack development.
-- 🏢 Currently working as a **Software Engineer**. I am also working through **The Odin Project** to decide if it is worth recommending to the students I mentor.
+- 🏢 Currently working as a **Software Engineer**. 
 - 📚 Passionate about sharing knowledge; **writing code** and **teaching through social media**.
 
 ## 👀 I’m Interested In
