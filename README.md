@@ -1,9 +1,9 @@
-# 👋 Hello, I'm @fullstackjunkie!
+# 👋 Hello, I'm @DirtRoadDeveloper!
 
 ## 🚀 About Me
 
 - 🎓 **Computer Science Graduate** with multiple years of **industry experience**.
-- 💻 Skilled in **C#**, **JavaScript**, and full-stack development.
+- 💻 Skilled in **Java**, **JavaScript**, and full-stack development.
 - 🏢 Currently working as a **Software Engineer**. 
 - 📚 Passionate about sharing knowledge; **writing code** and **teaching through social media**.
 
@@ -28,10 +28,10 @@
 
 
 <!-- - 💼 LinkedIn: [Ron Goodwin](https://www.linkedin.com/in/ronaldgoodwindev/) -->
-- 🐦 Twitter: [@fullstackjunkie](https://x.com/fullstackjunkie)
-- 🎵 TikTok: [@fullstackjunkie](https://www.tiktok.com/@fullstackjunkie)
-- 📸 Instagram: [@fullstackjunkie](https://www.instagram.com/fullstackjunkie)
-- 📺 YouTube: [@fullstackjunkie](https://www.youtube.com/@FullstackJunkie)
+- 🐦 Twitter: [@dirtroaddev](https://x.com/dirtroaddev)
+- 🎵 TikTok: [@dirtroaddev](https://www.tiktok.com/@dirtroaddeveloper)
+- 📸 Instagram: [@dirtroaddev](https://www.instagram.com/dirtroaddev)
+- 📺 YouTube: [@dirtroaddev](https://www.youtube.com/@dirtroaddev)
 
 ## 😄 Pronouns
 
