@@ -6,7 +6,6 @@
 - 💻 Skilled in **Java**, **JavaScript**, and full-stack development.
 - 🏢 Currently working as a **Software Engineer**. 
 - 📚 Passionate about sharing knowledge; **writing code** and **teaching through social media**.
-- 💻 Currently doing **The Odin Project** so I can write about it and making sure I can recommend it as a resource.
 
 ## 👀 I’m Interested In
 
@@ -19,6 +18,7 @@
 - 🔭 Advanced **cooking** and **microservices architecture**.
 - 🎨 Enhancing design skills.
 - 🚀 The latest trends in **Computer Sicence**.
+- 💻 **The Odin Project** so I can write about it and making sure I can recommend it as a resource.
 
 ## 💞️ Let’s Collaborate!
 
