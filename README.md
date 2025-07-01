@@ -3,7 +3,7 @@
 ## 🚀 About Me
 
 - 🎓 **Computer Science Graduate** with multiple years of **industry experience**.
-- 💻 Skilled in **Java**, **JavaScript**, and full-stack development.
+- 💻 Skilled in **C#**, **JavaScript**, and full-stack development.
 - 🏢 Currently working as a **Software Engineer**. 
 - 📚 Passionate about sharing knowledge; **writing code** and **teaching through social media**.
 
