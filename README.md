@@ -30,9 +30,9 @@
 
 <!-- - 💼 LinkedIn: [Ron Goodwin](https://www.linkedin.com/in/ronaldgoodwindev/) -->
 - 🐦 Twitter: [@dirtroaddev](https://x.com/dirtroaddev)
-- 🎵 TikTok: [@dirtroaddev](https://www.tiktok.com/@dirtroaddeveloper)
-- 📸 Instagram: [@dirtroaddev](https://www.instagram.com/dirtroaddev)
-- 📺 YouTube: [@dirtroaddev](https://www.youtube.com/@dirtroaddev)
+- 🎵 TikTok: [@dirtroaddev](https://www.tiktok.com/@dirtroaddev)
+- 📸 Instagram: [@dirtroaddev](https://www.instagram.com/dirtroaddeveloper)
+- 📺 YouTube: [@dirtroaddev](https://www.youtube.com/@dirtroaddeveloper)
 
 ## 😄 Pronouns
 
