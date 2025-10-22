@@ -29,9 +29,9 @@
 
 
 <!-- - 💼 LinkedIn: [Ron Goodwin](https://www.linkedin.com/in/ronaldgoodwindev/) -->
-- 🐦 Twitter: [@dirtroaddev](https://x.com/dirtroaddev)
+- 🐦 BluSky: [@dirtroaddev](https://bsky.app/profile/dirtroaddeveloper.bsky.social)
 - 🎵 TikTok: [@dirtroaddev](https://www.tiktok.com/@dirtroaddev)
-- 📸 Instagram: [@dirtroaddev](https://www.instagram.com/dirtroaddeveloper)
+- 📸 Instagram: [@dirtroaddev](https://www.instagram.com/dirtroaddeveloper.codes)
 - 📺 YouTube: [@dirtroaddev](https://www.youtube.com/@dirtroaddeveloper)
 
 ## 😄 Pronouns
