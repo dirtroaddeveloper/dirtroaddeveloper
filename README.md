@@ -2,7 +2,7 @@
 
 ### I build games, teach developers, and occasionally convince C# to do what I want.
 
-I'm **Game Dev Junkie** — a Software Engineer, game developer, educator, and creator who loves building things and teaching other people how to build them too.
+I'm **Game Dev Junkie** a Software Engineer, game developer, educator, and creator who loves building things and teaching other people how to build them too.
 
 Currently working at **Seven 30 Games**, building games, creating developer education platforms, and sharing what I learn along the way.
 
